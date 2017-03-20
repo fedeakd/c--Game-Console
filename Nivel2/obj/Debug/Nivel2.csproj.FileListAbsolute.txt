@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\Nivel2\obj\Debug\Nivel2.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\Nivel2\bin\Debug\Nivel2.exe
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\Nivel2\bin\Debug\Nivel2.pdb
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\Nivel2\bin\Debug\Utilidadess.dll
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\Nivel2\bin\Debug\Utilidadess.pdb
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\Nivel2\obj\Debug\Nivel2.exe
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\Nivel2\obj\Debug\Nivel2.pdb

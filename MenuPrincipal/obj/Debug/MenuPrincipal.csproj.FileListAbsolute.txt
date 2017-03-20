@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\MenuPrincipal\bin\Debug\Nivel1.exe
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\MenuPrincipal\bin\Debug\Nivel2.exe
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\MenuPrincipal\bin\Debug\Utilidadess.dll
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\MenuPrincipal\bin\Debug\Nivel1.pdb
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\MenuPrincipal\bin\Debug\Nivel2.pdb
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\MenuPrincipal\bin\Debug\Utilidadess.pdb
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\MenuPrincipal\obj\Debug\MenuPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\MenuPrincipal\obj\Debug\MenuPrincipal.exe
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\MenuPrincipal\obj\Debug\MenuPrincipal.pdb
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\MenuPrincipal\bin\Debug\Nivel3.exe
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\MenuPrincipal\bin\Debug\Nivel3.pdb
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\MenuPrincipal\bin\Debug\Nivel4.exe
+C:\Users\Usuario\Desktop\(PnF)\c#\hecho en casa\Por.Niveles\MenuPrincipal\bin\Debug\Nivel4.pdb

@@ -1,0 +1,4 @@
+-----Consigna-----
+
+El juego consiste en agarrar todas las "pelotitas" para que se logre abrir la puerta y poder escapar al siguiente nivel 
+para eso se debera pasar diferentes obstaculos 
